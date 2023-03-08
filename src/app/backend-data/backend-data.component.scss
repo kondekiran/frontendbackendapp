@@ -1,0 +1,55 @@
+.menu-bar{
+    border-style: none;
+    color:white;
+    background-color: transparent;
+    font-weight: bold;
+  
+  }
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  .dashboard-space{
+    padding-left: 10px;
+  }
+
+  table {
+    width: 100%;
+    border-style:solid;
+    border-width:0px;
+    background-color:rgb(190, 223, 228);
+  }
+  
+  .storeList{
+    border-style:none;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-width:1px;
+  }
+  .storesMainheading{
+    font-weight: bold;
+  }
+  .tableheadings{
+    font-weight: bold;
+    font-size:medium;
+    text-align:center;
+  }
+.apidialogbox{
+  padding-left: 55px;
+}
+.apibtn{
+  border-width: 1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: lightcyan;
+  font-weight:bold;
+}
+.example-table-container {
+  overflow-y: auto;
+  width:100%;
+}
+.productDelbtn{
+  height:50px;
+  width:50px;
+}
